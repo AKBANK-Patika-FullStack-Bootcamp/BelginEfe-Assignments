@@ -6,7 +6,7 @@
 
 ### Post Method
 
-![](postsuccess.png)
+![](post.png)
 
 ### Post Method (Error)
 
