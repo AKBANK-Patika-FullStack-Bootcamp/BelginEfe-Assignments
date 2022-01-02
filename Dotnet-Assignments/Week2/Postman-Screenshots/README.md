@@ -14,7 +14,7 @@
 
 ### Put Method
 
-![](putsuccess.png)
+![](put.png)
 
 ### Put Method (Error)
 
