@@ -1,4 +1,4 @@
-﻿namespace ClientDataApi.Models
+namespace ClientDataApi.Models
 {
     // A client data class created to hold client data
 
