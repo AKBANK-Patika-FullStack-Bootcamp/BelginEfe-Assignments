@@ -1,4 +1,4 @@
-🖌️ ## This project consists of four parts.
+🖌️  This project consists of four parts.
 
 - Export and import [Go to the Assignment](./Part-1/app.js)
 - High order function [Go to the Assignment](./Part-2/sum.js)
