@@ -14,11 +14,11 @@
 
 ## SQL OPERATIONS
 
-✏️ Create database
-✏️ Create table and Join
+✏️ Create database </br>
+✏️ Create table and Join </br>
 
 ## OTHER
 
-✏️ Connect DB from server by Entity framework
-✏️ Logger class and operations
-✏️ DAL (Data Access Layer)
+✏️ Connect DB from server by Entity framework </br>
+✏️ Logger class and operations </br>
+✏️ DAL (Data Access Layer) </br>
